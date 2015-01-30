@@ -44,6 +44,19 @@ a{
 	display: block;
 }
 
+nav {
+	text-align:center;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+}
+
+nav li {
+	display: inline-block;
+}
+
 .planetlist {
 	list-style-type: lower-roman;
 }
