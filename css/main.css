@@ -1,0 +1,49 @@
+html {
+	background-color: #bdb9a0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 3rem;
+	font-family: 'Bevan', cursive;
+	color: #fff;
+	text-align: center;
+	background-color: #333;
+	padding: 2em 3em;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 2rem;
+	font-family: 'Bevan', cursive;
+	color: #666;
+}
+
+blockquote {
+	font-weight: bold;
+	font-size:1.5rem;
+}
+
+dt {
+	font-weight: bold;
+	font-size: 1rem;
+}
+
+.cite {
+	text-align: right;
+}
+
+ol {
+	list-style-type: disc;
+}
+
+a{
+	color: white;
+	background-color: red;
+	display: block;
+}
+
+.planetlist {
+	list-style-type: lower-roman;
+}
