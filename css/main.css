@@ -3,13 +3,18 @@ html {
 	font-family: 'Open Sans', sans-serif;
 }
 
+body {
+	margin: 0;
+}
+
 h1 {
 	font-weight: bold;
 	font-size: 3rem;
 	font-family: 'Bevan', cursive;
 	color: #fff;
 	text-align: center;
-	padding: 1em 1em;
+	padding: 1em 2em 0.5em 3em;
+	margin: 0;
 }
 
 h2 {
@@ -41,6 +46,7 @@ a{
 	color: white;
 	background-color: #716558;
 	display: block;
+	padding: 1em;
 }
 
 nav {
@@ -72,8 +78,24 @@ header {
 }
 
 figure {
-	border: 2px solid #111;
+	border: 2px solid #333;
 	border-radius: 10px;
-	padding: 1 em 2em 0.5em 3em;
+	padding: 1em 2em;
 	margin: 0 em;
+}
+
+img {
+	width: 100%;
+}
+
+footer {
+	background-color: #716558
+}
+
+h3 {
+	color: white;
+}
+
+ol {
+
 }
