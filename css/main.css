@@ -22,6 +22,7 @@ h2 {
 	font-size: 2rem;
 	font-family: 'Bevan', cursive;
 	color: #666;
+	background-color: none
 }
 
 blockquote {
@@ -34,9 +35,10 @@ dt {
 	font-size: 1rem;
 }
 
-cite {
-	text-align: right;
+dl {
+	margin: 0;
 }
+
 
 ol {
 	list-style-type: disc;
@@ -50,6 +52,7 @@ a{
 
 nav {
 	text-align: center;
+	padding: 1em 2em 0.5em 3em ;
 }
 
 nav ul {
@@ -92,6 +95,15 @@ footer {
 	color: white;
 	background-color: #333
 }
+
+cite {
+	text-align: right
+}
+
+.wiki {
+	background-color: none
+}
+
 
 
 
